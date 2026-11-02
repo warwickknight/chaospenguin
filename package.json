@@ -1,0 +1,12 @@
+{
+  "name": "chaospenguin",
+  "version": "1.0.0",
+  "description": "LactoCorp Dairy Facility: Chaos Penguin Mini Game",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve -l 3000 ."
+  },
+  "keywords": ["game", "threejs", "chaos-penguin"],
+  "author": "Warwick Knight",
+  "license": "MIT"
+}
